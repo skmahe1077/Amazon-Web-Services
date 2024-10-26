@@ -10,7 +10,7 @@ This repository provides comprehensive, step-by-step guides for various AWS serv
 - 6.Automating Infrastructure Deployment with Gitsync and AWS CloudFormation
 - 7.A Step-by-Step Guide to Setting Up and Evaluating Custom Models in Amazon Bedrock
 - 8.A Guide to AWS Console-to-Code- Recording and Generating Infrastructure as Code
-- 9.Amazon Bedrock step by steps
+- 9.A Step-by-Step Guide to Setting Up and Evaluating Custom Models in Amazon Bedrock
 
 # How to Use
 Each document is a detailed PDF guide on AWS services. Simply navigate to the relevant file and follow the instructions.
